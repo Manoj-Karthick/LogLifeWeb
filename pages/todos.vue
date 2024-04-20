@@ -1,0 +1,1 @@
+<template>Board Page</template>
